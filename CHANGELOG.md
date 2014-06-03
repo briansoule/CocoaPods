@@ -6,6 +6,9 @@ To install or update CocoaPods see this [guide](http://docs.cocoapods.org/guides
 
 ##### Enhancements
 
+* Added support for swift source files.
+  [Kyle Fuller][kylef]
+
 * Add support to specify dependencies per build configuration.
 
       pod 'Lookback', :configurations => ['Debug']
